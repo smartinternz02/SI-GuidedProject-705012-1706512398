@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_View all transactions, manage payment _3fb06e</name>
+   <tag></tag>
+   <elementGuidId>5e44c9a5-8aa0-482d-9dd2-b58c1daade86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/div/div/div[3]/div[3]/a/div/div/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab12be4b-4ff1-47fa-abc8-0308ba1b4d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-color-secondary</value>
+      <webElementGuid>f043b21d-b96f-48e5-8f96-11e395e053f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all transactions, manage payment methods and settings</value>
+      <webElementGuid>71946e1a-9d64-4298-9f3b-b031f3a4284d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-page&quot;)/div[@class=&quot;a-container&quot;]/div[@class=&quot;a-section ya-personalized&quot;]/div[@class=&quot;ya-card-row&quot;]/div[@class=&quot;ya-card-cell&quot;]/a[@class=&quot;ya-card__whole-card-link&quot;]/div[@class=&quot;a-box ya-card--rich&quot;]/div[@class=&quot;a-box-inner&quot;]/div[@class=&quot;a-row&quot;]/div[@class=&quot;a-column a-span9 a-span-last&quot;]/div[1]/span[@class=&quot;a-color-secondary&quot;]</value>
+      <webElementGuid>0f862136-2a0a-42d2-9f4e-646eb49152fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/div/div/div[3]/div[3]/a/div/div/div/div[2]/div/span</value>
+      <webElementGuid>0f72a92b-54cf-4067-bd32-24a14bdbf4d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/a/div/div/div/div[2]/div/span</value>
+      <webElementGuid>7117a6bf-327f-4193-9944-aa18f18cdea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View all transactions, manage payment methods and settings' or . = 'View all transactions, manage payment methods and settings')]</value>
+      <webElementGuid>1f7f96d4-f5c7-4b15-a82b-fa186a452c3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
