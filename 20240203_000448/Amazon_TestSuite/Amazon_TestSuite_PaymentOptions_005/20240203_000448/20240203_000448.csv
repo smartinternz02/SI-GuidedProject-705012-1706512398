@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_PaymentOptions_005,Chrome 121.0.0.0,,,03-02-2024 00:04:55,03-02-2024 00:05:22,26.633s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/All Test Cases Validation/TC_Amazon_ValidateForPaymentOptions_005,Chrome 121.0.0.0,,,03-02-2024 00:04:56,03-02-2024 00:05:22,26.436s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 00:04:56,03-02-2024 00:04:57,1.805s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 00:04:57,03-02-2024 00:04:59,1.396s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/span_Account  Lists""))",Chrome 121.0.0.0,,,03-02-2024 00:04:59,03-02-2024 00:05:08,8.734s,PASSED
+"setText(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/input_email""), ""sagarkumarmolli@gmail.com"")",Chrome 121.0.0.0,,,03-02-2024 00:05:08,03-02-2024 00:05:09,1.312s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/inputcontinue""))",Chrome 121.0.0.0,,,03-02-2024 00:05:09,03-02-2024 00:05:10,1.101s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/input_password""), ""UzqFrP2yZheNfSdwKeJwgA=="")",Chrome 121.0.0.0,,,03-02-2024 00:05:10,03-02-2024 00:05:11,0.923s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,03-02-2024 00:05:11,03-02-2024 00:05:11,0.380s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/i_hm-icon nav-sprite""))",Chrome 121.0.0.0,,,03-02-2024 00:05:11,03-02-2024 00:05:18,6.622s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/a_Your Account""))",Chrome 121.0.0.0,,,03-02-2024 00:05:18,03-02-2024 00:05:20,1.922s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_PaymentOptions_OR/span_View all transactions, manage payment _3fb06e""))",Chrome 121.0.0.0,,,03-02-2024 00:05:20,03-02-2024 00:05:22,1.816s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 00:05:22,03-02-2024 00:05:22,0.255s,PASSED

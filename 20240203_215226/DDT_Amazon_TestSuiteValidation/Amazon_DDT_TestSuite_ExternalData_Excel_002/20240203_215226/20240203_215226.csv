@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_DDT_TestSuite_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:52:33,03-02-2024 21:54:15,1m - 42.473s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:52:33,03-02-2024 21:52:54,21.403s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 21:52:33,03-02-2024 21:52:35,1.803s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 21:52:35,03-02-2024 21:52:36,1.752s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/select_All Departments        Arts  Crafts _135c92""), category, true)",Chrome 121.0.0.0,,,03-02-2024 21:52:36,03-02-2024 21:52:48,11.697s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/input_field-keywords""), item)",Chrome 121.0.0.0,,,03-02-2024 21:52:48,03-02-2024 21:52:49,1.235s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,03-02-2024 21:52:49,03-02-2024 21:52:54,4.518s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 21:52:54,03-02-2024 21:52:54,0.197s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:52:54,03-02-2024 21:53:10,15.390s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 21:52:54,03-02-2024 21:52:55,0.779s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 21:52:55,03-02-2024 21:52:57,1.908s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/select_All Departments        Arts  Crafts _135c92""), category, true)",Chrome 121.0.0.0,,,03-02-2024 21:52:57,03-02-2024 21:53:00,2.613s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/input_field-keywords""), item)",Chrome 121.0.0.0,,,03-02-2024 21:53:00,03-02-2024 21:53:01,1.003s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,03-02-2024 21:53:01,03-02-2024 21:53:09,8.895s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 21:53:09,03-02-2024 21:53:10,0.175s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:53:10,03-02-2024 21:53:35,25.804s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 21:53:10,03-02-2024 21:53:10,0.785s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 21:53:10,03-02-2024 21:53:12,1.350s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/select_All Departments        Arts  Crafts _135c92""), category, true)",Chrome 121.0.0.0,,,03-02-2024 21:53:12,03-02-2024 21:53:27,15.339s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/input_field-keywords""), item)",Chrome 121.0.0.0,,,03-02-2024 21:53:27,03-02-2024 21:53:28,1.021s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,03-02-2024 21:53:28,03-02-2024 21:53:35,7.026s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 21:53:35,03-02-2024 21:53:35,0.257s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:53:35,03-02-2024 21:53:50,14.095s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 21:53:35,03-02-2024 21:53:36,0.851s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 21:53:36,03-02-2024 21:53:39,2.410s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/select_All Departments        Arts  Crafts _135c92""), category, true)",Chrome 121.0.0.0,,,03-02-2024 21:53:39,03-02-2024 21:53:41,2.327s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/input_field-keywords""), item)",Chrome 121.0.0.0,,,03-02-2024 21:53:41,03-02-2024 21:53:42,0.992s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,03-02-2024 21:53:42,03-02-2024 21:53:49,7.275s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 21:53:49,03-02-2024 21:53:50,0.218s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_ExternalData_Excel_002,Chrome 121.0.0.0,,,03-02-2024 21:53:50,03-02-2024 21:54:15,25.384s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 21:53:50,03-02-2024 21:53:50,0.777s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 21:53:50,03-02-2024 21:53:52,1.386s,PASSED
+"selectOptionByLabel(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/select_All Departments        Arts  Crafts _135c92""), category, true)",Chrome 121.0.0.0,,,03-02-2024 21:53:52,03-02-2024 21:54:05,13.377s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/input_field-keywords""), item)",Chrome 121.0.0.0,,,03-02-2024 21:54:05,03-02-2024 21:54:06,1.027s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_ExternalData_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,03-02-2024 21:54:06,03-02-2024 21:54:15,8.586s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,03-02-2024 21:54:15,03-02-2024 21:54:15,0.215s,PASSED

@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TestSuite_ValidateSearchFieldItem_002,Chrome 121.0.0.0,,,05-02-2024 15:16:19,05-02-2024 15:16:52,32.801s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/All Test Cases Validation/TC_Amazon_ValidateSearchFieldItem_002,Chrome 121.0.0.0,,,05-02-2024 15:16:19,05-02-2024 15:16:52,32.616s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 15:16:19,05-02-2024 15:16:22,2.300s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,05-02-2024 15:16:22,05-02-2024 15:16:24,2.067s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/AmazonPages/Amazon_ValidateSearchFeildItem_OR/select_All Departments        Arts  Crafts _135c92""), ""search-alias=stripbooks-intl-ship"", true)",Chrome 121.0.0.0,,,05-02-2024 15:16:24,05-02-2024 15:16:44,20.090s,PASSED
+"setText(findTestObject(""Object Repository/AmazonPages/Amazon_ValidateSearchFeildItem_OR/input_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,05-02-2024 15:16:44,05-02-2024 15:16:45,1.242s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages/Amazon_ValidateSearchFeildItem_OR/inputnav-search-submit-button""))",Chrome 121.0.0.0,,,05-02-2024 15:16:45,05-02-2024 15:16:51,6.449s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,05-02-2024 15:16:51,05-02-2024 15:16:52,0.203s,PASSED
