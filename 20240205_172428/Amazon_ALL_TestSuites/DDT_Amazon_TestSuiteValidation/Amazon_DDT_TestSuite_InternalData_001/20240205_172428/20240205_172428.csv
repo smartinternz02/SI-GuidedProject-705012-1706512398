@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_DDT_TestSuite_InternalData_001,Chrome 121.0.0.0,,,05-02-2024 17:24:34,05-02-2024 17:24:59,24.862s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_InternalData_001,Chrome 121.0.0.0,,,05-02-2024 17:24:34,05-02-2024 17:24:59,24.634s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 17:24:35,05-02-2024 17:24:36,1.829s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,05-02-2024 17:24:36,05-02-2024 17:24:39,2.084s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/span_Account  Lists""))",Chrome 121.0.0.0,,,05-02-2024 17:24:39,05-02-2024 17:24:54,15.476s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/input_email""), email)",Chrome 121.0.0.0,,,05-02-2024 17:24:54,05-02-2024 17:24:55,1.456s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/inputcontinue""))",Chrome 121.0.0.0,,,05-02-2024 17:24:55,05-02-2024 17:24:57,1.458s,PASSED
+"setText(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/input_password""), password)",Chrome 121.0.0.0,,,05-02-2024 17:24:57,05-02-2024 17:24:58,1.401s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/inputsignInSubmit""))",Chrome 121.0.0.0,,,05-02-2024 17:24:58,05-02-2024 17:24:59,0.432s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,05-02-2024 17:24:59,05-02-2024 17:24:59,0.215s,PASSED

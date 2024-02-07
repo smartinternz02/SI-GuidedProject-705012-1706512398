@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_DDT_TestSuite_InternalData_001,Chrome 121.0.0.0,,,05-02-2024 17:17:44,05-02-2024 17:18:20,35.144s,FAILED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/DDT Amazon TestCase Validation/TC_Amazon_DDT_InternalData_001,Chrome 121.0.0.0,,,05-02-2024 17:17:45,05-02-2024 17:18:20,34.916s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 17:17:45,05-02-2024 17:17:47,1.827s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,05-02-2024 17:17:47,05-02-2024 17:17:48,1.333s,PASSED
+"click(findTestObject(""Object Repository/DDT_Amazon_TestCaseValidation_OR/Amazon_DDT_InternalData_OR/span_Account  Lists""))",Chrome 121.0.0.0,,,05-02-2024 17:17:48,05-02-2024 17:18:20,31.470s,FAILED

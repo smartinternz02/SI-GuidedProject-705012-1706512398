@@ -1,0 +1,1 @@
+Test Suites/Amazon_ALL_TestSuiteCollection/DDT_Amazon_TestSuiteCollectionValidation/Amazon_DDT_TestSuiteCollection

@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Test Suite_GlobalVariables_002,Chrome 121.0.0.0,,,06-02-2024 00:29:43,06-02-2024 00:30:05,22.670s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/Amazon Local and Global Variables/TC_Amazon_GlobalVariables_002,Chrome 121.0.0.0,,,06-02-2024 00:29:43,06-02-2024 00:30:05,22.475s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,06-02-2024 00:29:43,06-02-2024 00:29:45,1.934s,PASSED
+"navigateToUrl(""https://www.amazon.com"")",Chrome 121.0.0.0,,,06-02-2024 00:29:45,06-02-2024 00:29:47,1.516s,PASSED
+"click(findTestObject(""Amazon_Local and Global Variables_OR/Amazon_GlobalVariables_OR/span_Account  Lists""))",Chrome 121.0.0.0,,,06-02-2024 00:29:47,06-02-2024 00:30:01,14.644s,PASSED
+"setText(findTestObject(""Amazon_Local and Global Variables_OR/Amazon_GlobalVariables_OR/input_Email or mobile phone number_email""), username)",Chrome 121.0.0.0,,,06-02-2024 00:30:01,06-02-2024 00:30:03,1.255s,PASSED
+"click(findTestObject(""Amazon_Local and Global Variables_OR/Amazon_GlobalVariables_OR/input_Enter your email or mobile phone number_continue""))",Chrome 121.0.0.0,,,06-02-2024 00:30:03,06-02-2024 00:30:04,1.046s,PASSED
+"setText(findTestObject(""Amazon_Local and Global Variables_OR/Amazon_GlobalVariables_OR/input_Forgot your password_password""), locker)",Chrome 121.0.0.0,,,06-02-2024 00:30:04,06-02-2024 00:30:05,1.208s,PASSED
+"click(findTestObject(""Amazon_Local and Global Variables_OR/Amazon_GlobalVariables_OR/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,06-02-2024 00:30:05,06-02-2024 00:30:05,0.385s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,06-02-2024 00:30:05,06-02-2024 00:30:05,0.198s,PASSED

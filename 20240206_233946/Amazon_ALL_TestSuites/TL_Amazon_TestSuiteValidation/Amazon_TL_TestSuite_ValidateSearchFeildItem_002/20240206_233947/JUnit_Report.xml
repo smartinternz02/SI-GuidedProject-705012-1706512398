@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Amazon_TL_TestSuite_ValidateSearchFeildItem_002" time="36.179" tests="1" failures="0" errors="0">
+   <testsuite name="Amazon_TL_TestSuite_ValidateSearchFeildItem_002" tests="1" failures="0" errors="0" time="36.179" skipped="0" timestamp="06-02-2024T23:39:54" hostname="RS - DESKTOP-3NI4M05" id="Test Suites/Amazon_ALL_TestSuites/TL_Amazon_TestSuiteValidation/Amazon_TL_TestSuite_ValidateSearchFeildItem_002">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\RS\\Katalon Studio\\My First Web UI Project\\AMAZON SOFTWARE TEST AUTOMATION\\Reports\\20240206_233946\\Amazon_ALL_TestSuites\\TL_Amazon_TestSuiteValidation\\Amazon_TL_TestSuite_ValidateSearchFeildItem_002\\20240206_233947"/>
+         <property name="logFiles" value="C:\\Users\\RS\\Katalon Studio\\My First Web UI Project\\AMAZON SOFTWARE TEST AUTOMATION\\Reports\\20240206_233946\\Amazon_ALL_TestSuites\\TL_Amazon_TestSuiteValidation\\Amazon_TL_TestSuite_ValidateSearchFeildItem_002\\20240206_233947\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="RS - DESKTOP-3NI4M05"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.3.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.5.7"/>
+         <property name="sessionId" value="f88890137942b59ef16cf5f80a95f35e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002" time="21.518" classname="Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002" status="PASSED">
+         <system-out><![CDATA[06-02-2024T23:40:09 - [TEST_CASE][PASSED] - Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002: Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002
+
+06-02-2024T23:40:09 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your password_signInSubmit' is clicked on
+
+06-02-2024T23:40:09 - [TEST_STEP][PASSED] - setText(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Email or mobile phone number_email"), "sagarkumarmolli@gmail.com"): Text 'sagarkumarmolli@gmail.com' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Email or mobile phone number_email'
+
+06-02-2024T23:40:10 - [MESSAGE][PASSED] - Text 'sagarkumarmolli@gmail.com' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Email or mobile phone number_email'
+
+06-02-2024T23:40:10 - [TEST_STEP][PASSED] - click(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your email or mobile phone number_continue")): Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your email or mobile phone number_continue' is clicked on
+
+06-02-2024T23:40:12 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your email or mobile phone number_continue' is clicked on
+
+06-02-2024T23:40:12 - [TEST_STEP][PASSED] - setText(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Forgot your password_password"), "Sagar123@"): Text 'Sagar123@' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Forgot your password_password'
+
+06-02-2024T23:40:13 - [MESSAGE][PASSED] - Text 'Sagar123@' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Forgot your password_password'
+
+06-02-2024T23:40:13 - [TEST_STEP][PASSED] - click(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your password_signInSubmit")): Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your password_signInSubmit' is clicked on
+
+06-02-2024T23:40:13 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Enter your password_signInSubmit' is clicked on
+
+06-02-2024T23:40:13 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/CategoryElements"), "Books", false): All options with label 'Books' are selected in object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/CategoryElements' 
+
+06-02-2024T23:40:18 - [MESSAGE][PASSED] - All options with label 'Books' are selected in object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/CategoryElements' 
+
+06-02-2024T23:40:18 - [TEST_STEP][PASSED] - setText(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_field-keywords"), "Da vinci code"): Text 'Da vinci code' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_field-keywords'
+
+06-02-2024T23:40:19 - [MESSAGE][PASSED] - Text 'Da vinci code' is set on object 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_field-keywords'
+
+06-02-2024T23:40:19 - [TEST_STEP][PASSED] - click(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_nav-search-submit-button")): Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_nav-search-submit-button' is clicked on
+
+06-02-2024T23:40:24 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_nav-search-submit-button' is clicked on
+
+06-02-2024T23:40:24 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Sign Out' is clicked on
+
+06-02-2024T23:40:24 - [TEST_STEP][PASSED] - mouseOver(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Account  Lists")): Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Account  Lists' is hovered
+
+06-02-2024T23:40:25 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Account  Lists' is hovered
+
+06-02-2024T23:40:25 - [TEST_STEP][PASSED] - click(findTestObject("TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Sign Out")): Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Sign Out' is clicked on
+
+06-02-2024T23:40:31 - [MESSAGE][PASSED] - Object: 'Object Repository/TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/span_Sign Out' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[06-02-2024T23:39:54 - [TEST_SUITE][PASSED] - Amazon_TL_TestSuite_ValidateSearchFeildItem_002: Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

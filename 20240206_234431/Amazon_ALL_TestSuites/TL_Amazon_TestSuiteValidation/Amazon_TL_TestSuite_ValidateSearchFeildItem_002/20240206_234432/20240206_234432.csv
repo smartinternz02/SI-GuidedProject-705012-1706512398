@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TL_TestSuite_ValidateSearchFeildItem_002,Chrome 121.0.0.0,,,06-02-2024 23:44:40,06-02-2024 23:45:16,36.106s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/TL Amazon TestCase Validation/TC_Amazon_TL_ValidateSearchFeildItem_002,Chrome 121.0.0.0,,,06-02-2024 23:44:53,06-02-2024 23:45:16,23.820s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 23:44:53,06-02-2024 23:44:58,5.483s,PASSED
+"selectOptionByLabel(findTestObject(""TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/CategoryElements""), ""Books"", false)",Chrome 121.0.0.0,,,06-02-2024 23:44:58,06-02-2024 23:45:04,6.141s,PASSED
+"setText(findTestObject(""TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_field-keywords""), ""Da vinci code"")",Chrome 121.0.0.0,,,06-02-2024 23:45:04,06-02-2024 23:45:06,1.435s,PASSED
+"click(findTestObject(""TL_Amazon_TestCaseValidation_OR/Amazon_TL_ValidateSearchFeildItem_OR/input_Search Amazon_nav-search-submit-button""))",Chrome 121.0.0.0,,,06-02-2024 23:45:06,06-02-2024 23:45:10,4.463s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 23:45:10,06-02-2024 23:45:16,6.155s,PASSED
